@@ -3,11 +3,11 @@
  <p align="center">
     A FiveM script that allows those with photosensitive epilepsy to toggle on and off /epilepsymode. This will remove emergency lights and dim light coronas to ensure these aren't a trigger whilst playing.
     <br />
-    <a href="https://github.com/Tomogunchi/epilepsymode/releases/latest/">Download</a>
+    <a href="https://github.com/Tomogunchi/FiveM-Epilepsy-Mode-Script/releases/latest/">Download</a>
     ·
-    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/tomogunchi/epilepsymode/total?label=Downloads">
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/tomogunchi/FiveM-Epilepsy-Mode-Script/total?label=Downloads">
     ·
-    <a href="https://github.com/Tomogunchi/epilepsymode/issues">Report Bugs</a>
+    <a href="https://github.com/Tomogunchi/FiveM-Epilepsy-Mode-Script/issues">Report Bugs</a>
   </p>
 </p>
 
